@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Info About App",
+
+        "userinfo":{
+            "nome": "Rodrigo Gontyjo",
+            "image": "https://cdn.discordapp.com/attachments/828475549939662848/1037025068263415818/66C73156-29FA-488C-8957-953F7E9FAA60.jpg",
+            "bio": "Estudante de ciências da computação//nProgramador//nBrasília-DF//n12/2001//n🏳️‍🌈",
+
+            "usermedias":{
+                "instagram": "https://www.instagram.com/rodrigogontyjo/",
+                "twitter": "https://twitter.com/rodrigogontyjo",
+                "faceebook": "https://web.facebook.com/rodrigo.gontyjo",
+                "github": "https://github.com/Gontyjo",
+                "linkedin": "https://www.linkedin.com/in/rodrigo-gontyjo-6a5910197",
+                "linkr": "https://linkr.bio/rodrigogontyjo"
+            }
+        }
+    }
+]
